@@ -1,0 +1,27 @@
+.form {
+  ul {
+    list-style: none;
+
+    li {
+      display: block;
+      margin: 10px 0;
+    }
+  }
+
+  label {
+    & > span {
+      display: inline-block;
+      width: 100px;
+    }
+  }
+
+  input {
+    height: 40px;
+    border: 1px solid #eee;
+    padding: 0 10px;
+  }
+
+  button {
+
+  }
+}

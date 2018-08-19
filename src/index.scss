@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+}
+
+a, a:visited {
+  color: blue;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+}
+
+hr {
+  height: 1px;
+  border: none;
+  background: #ECEFF1;
+  margin: 24px 0;
+}
+
+em {
+  font-style: italic;
+}

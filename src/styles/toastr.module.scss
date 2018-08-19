@@ -1,0 +1,14 @@
+.toastr {
+  font-family: Roboto, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+
+  &__body {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  &__progress {
+    height: 2px;
+  }
+}

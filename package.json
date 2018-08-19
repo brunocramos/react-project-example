@@ -1,0 +1,71 @@
+{
+  "name": "backoffice",
+  "version": "2.0.0",
+  "private": true,
+  "dependencies": {
+    "@radargovernamental/orbit-style": "^1.0.0",
+    "apollo-boost": "^0.1.10",
+    "apollo-link": "^1.2.2",
+    "apollo-upload-client": "^8.1.0",
+    "chart.js": "^2.7.2",
+    "chartjs-plugin-datalabels": "^0.4.0",
+    "classnames": "^2.2.6",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
+    "localforage": "^1.7.2",
+    "lodash": "^4.17.10",
+    "logdown": "^3.2.3",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "query-string": "^6.1.0",
+    "react": "^16.4.1",
+    "react-apollo": "^2.1.9",
+    "react-chartjs-2": "^2.7.4",
+    "react-dom": "^16.4.1",
+    "react-dropzone": "^4.3.0",
+    "react-ga": "^2.5.3",
+    "react-highlight-words": "^0.12.0",
+    "react-paginate": "^5.2.3",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.0.0-next.3e165448",
+    "react-scroll": "^1.7.10",
+    "react-toastify": "^4.1.0",
+    "redux": "^4.0.0",
+    "redux-persist": "^5.10.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint": "eslint src --fix"
+  },
+  "browserslist": {
+    "development": [
+      "last 2 chrome versions",
+      "last 2 firefox versions",
+      "last 2 edge versions"
+    ],
+    "production": [
+      ">0.25%",
+      "not op_mini all",
+      "ie 11"
+    ]
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-config-standard-react": "^6.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-react": "^7.10.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "node-sass": "^4.9.2",
+    "redux-devtools": "^3.4.1"
+  }
+}

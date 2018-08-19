@@ -1,0 +1,9 @@
+@import '../../../styles/shared';
+
+.main {
+  background: #fff;
+  display: flex;
+  min-height: 100vh;
+  padding: 20px 30px 20px ($navBar-width + 30px);
+  box-sizing: border-box;
+}
