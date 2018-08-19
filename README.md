@@ -51,6 +51,8 @@ Using this format allow was to make it easier to navigate using our IDE shortcut
 
 ```bash
 yarn install
+cp .env.default .env.development
+yarn start
 ```
 
 Requires Node.JS version >= 10.6.0
