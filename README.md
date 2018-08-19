@@ -4,7 +4,8 @@
 
 ## Content
 
-This repository contains a simple project example for React - which works as a boilerplate as well.
+This repository contains a simple project example for React - which works as a boilerplate.
+
 Contents:
 
 - React 16.4.1 not ejected
